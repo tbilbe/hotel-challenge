@@ -1,0 +1,32 @@
+{
+  "name": "hotel-challenge",
+  "version": "1.0.0",
+  "description": "'hotels-r-us'",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackpearsall/hotel-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jackpearsall/hotel-challenge/issues"
+  },
+  "homepage": "https://github.com/jackpearsall/hotel-challenge#readme",
+  "devDependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.5.11",
+    "nodemon": "^1.19.1"
+  },
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "mongodb": "^3.2.6"
+  }
+}
