@@ -22,7 +22,7 @@
   "homepage": "https://github.com/jackpearsall/hotel-challenge#readme",
   "devDependencies": {
     "express": "^4.17.1",
-    "mongoose": "^5.5.11",
+    "mongoose": "^5.7.5",
     "nodemon": "^1.19.1"
   },
   "dependencies": {
